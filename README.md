@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/AyushDevHub)
 
 - 💬 Ask me about **Web Development**
 
