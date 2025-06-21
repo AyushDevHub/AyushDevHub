@@ -1,18 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A I’m a passionate frontend developer, focused on creating beautiful, responsive, and user-friendly web interfaces that deliver immersive experiences through clean, efficient code.passionate frontend developer from India</h3>
+<h1 align="center">Hey there, I'm Ayush 👋</h1>
+<h3 align="center">I'm a BCA(H) student and a self-taught web developer from India  
+I enjoy building clean, functional web apps while sharpening my problem-solving skills through DSA.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdevhub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdevhub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdevhub" alt="ayushdevhub" /></a> </p>
 
+
 - 🌱 I’m currently learning **Frontend**
-
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/AyushDevHub)
-
 - 💬 Ask me about **Web Development**
+- 📫 How to reach me: **coder.ayushshaw@gmail.com**
 
-- 📫 How to reach me **coder.ayushshaw@gmail.com**
+### 🔭 What I'm working on:
+- Practicing Data Structures & Algorithms
+- Building responsive web apps using HTML, CSS, JavaScript
+- Exploring open source contribution
+
+### ✍️ Weekly Blogs:
+I post every Sunday, sharing insights from what I learned through the week — in DSA, Web Dev, or Open Source.
+
+### 📡 Let’s Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/howdy_ayush)
 
 - ⚡ Fun fact **My GitHub is like a treasure trove of coding adventures—each project is a unique story where I combines creativity and code to tackle challenges, making my repositories not just a collection of code, but a journey of problem-solving and innovation!”**
 
