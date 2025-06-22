@@ -8,10 +8,11 @@ I enjoy building clean, functional web apps while sharpening my problem-solving 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdevhub" alt="ayushdevhub" /></a> </p>
 
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/AyushDevHub)
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **coder.ayushshaw@gmail.com**
+- 📝 Read my blogs at: [ayushdevblog.vercel](https://ayushdevblog.vercel.app)
 
 ### 🔭 What I'm working on:
 - Practicing Data Structures & Algorithms
@@ -22,8 +23,8 @@ I enjoy building clean, functional web apps while sharpening my problem-solving 
 I post every Sunday, sharing insights from what I learned through the week — in DSA, Web Dev, or Open Source.
 
 ### 📡 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/howdy_ayush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ayush-shaw-22b346304/))  
+
 
 - ⚡ Fun fact **My GitHub is like a treasure trove of coding adventures—each project is a unique story where I combines creativity and code to tackle challenges, making my repositories not just a collection of code, but a journey of problem-solving and innovation!”**
 
